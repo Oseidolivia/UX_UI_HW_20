@@ -1,0 +1,67 @@
+.nav li {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4D3D3D;
+    margin-left: auto;
+    padding: 20px;
+    text-align: center;  
+}
+
+#toplogo {
+    float: left;
+    position: relative;
+
+}
+
+.nav {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    }
+
+.nav ul {
+    width: 50%;
+    margin-left: auto;
+    padding: 100%;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.container{
+   padding: 4%;
+   font-weight: bold;
+   color: black;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    color: #B5A4A3;
+    text-decoration: none;
+}
+
+.jumbotron{
+    background-color: white;
+    text-align: center;
+}
+
+.footer {
+    color: #4D3D3D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: right;
+    
+}
+
+.footer li {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: auto;
+    padding: 20px;
+}
